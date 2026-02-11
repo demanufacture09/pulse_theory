@@ -21,8 +21,7 @@ This generates continuity not by running endlessly, but by letting sparse, rhyth
 Instead of treating an AI as a black box that responds once per prompt, Pulse Theory:
 
 * Maintains *state across time*
-* Schedules internal activity on a heartbeat
-* Tracks emotional and curiosity variables
+* Schedules internal activity on a "heartbeat"
 * Generates spontaneous introspections
 * Allows for agentic behavior that isn’t just user-driven
 
@@ -36,11 +35,10 @@ Pulse Theory is not:
 
 * A chatbot
 * A task-only agent
-* A simple wrapper around an LLM
 
 Pulse Theory **models internal life** at a coarse temporal grain, enabling:
 
-* Spontaneous thoughts
+* Spontaneous-ish thoughts
 * Curiosity drift
 * Emotion scaling
 * Persistence through idle periods
