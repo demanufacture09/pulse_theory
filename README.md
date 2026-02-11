@@ -1,99 +1,89 @@
-You want “pretty.” Not a chaotic dev diary.
-
 ---
 
 # Pulse Theory
 
-> A continuity-based computational framework exploring discrete pulse-driven state evolution.
+> A continuity-first cognitive architecture exploring pulse-driven state evolution
+> — where thought isn’t constant, it *emerges in rhythm*.
+
+Pulse Theory is an **experimental AI framework** that treats cognition like a heartbeat:
+
+* Not constant evaluation
+* Not stateless replies
+* But **discrete pulses of compute that drive sustained internal state**
+
+This generates continuity not by running endlessly, but by letting sparse, rhythmic evaluation build persistent behavior.
 
 ---
 
-## Overview
+## 🧠 Core Idea
 
-**Pulse Theory** is an experimental architecture that models continuity not as a constant stream, but as a structured sequence of discrete pulses.
+Instead of treating an AI as a black box that responds once per prompt, Pulse Theory:
 
-Instead of treating execution as an uninterrupted process, Pulse Theory enforces timed state transitions at defined intervals, creating the illusion of persistent continuity through controlled cadence.
+* Maintains *state across time*
+* Schedules internal activity on a heartbeat
+* Tracks emotional and curiosity variables
+* Generates spontaneous introspections
+* Allows for agentic behavior that isn’t just user-driven
 
-This approach enables:
-
-* Structured state persistence
-* Deterministic temporal stepping
-* Observable behavioral drift across pulse intervals
-* Experimental AI continuity modeling
-
----
-
-## Core Concept
-
-At its foundation, Pulse Theory operates on:
-
-* **Pulse Interval** — A defined execution frequency (e.g., every *N* ticks)
-* **State Retention** — Preserved memory across pulses
-* **Deterministic Advancement** — State evolves only at pulse boundaries
-* **Continuity Illusion** — Emergent persistence through repeated activation
-
-Continuity is not assumed. It is constructed.
+The result is *continuity without constant execution* — a model that feels alive between interactions rather than reinitialized every time.
 
 ---
 
-## Architecture
+## 🧪 What Makes Pulse Theory Different
 
-High-level model:
+Pulse Theory is not:
 
-```
-[ Idle ]
-   ↓
-[ Pulse Trigger ]
-   ↓
-[ State Evaluation ]
-   ↓
-[ Transition / Mutation ]
-   ↓
-[ Persist ]
-   ↓
-[ Await Next Pulse ]
-```
+* A chatbot
+* A task-only agent
+* A simple wrapper around an LLM
 
-This creates a rhythm-driven system rather than a constantly executing loop.
+Pulse Theory **models internal life** at a coarse temporal grain, enabling:
+
+* Spontaneous thoughts
+* Curiosity drift
+* Emotion scaling
+* Persistence through idle periods
+
+Rather than forcing continuity with brute-force loops, Pulse Theory lets it *emerge*.
 
 ---
 
-## Design Goals
+## 📦 Key Concepts
 
-* Explore enforced temporal spacing in intelligent systems
-* Simulate continuity without continuous computation
-* Enable low-resource experimentation
-* Study behavioral wandering across sparse activation windows
----
-## Implementation Notes
-
-* Pulse frequency is configurable
-* State serialization is modular
-* Execution environment agnostic (local-first design)
-* Scalable across hardware tiers
+| Concept             | Description                                                   |
+| ------------------- | ------------------------------------------------------------- |
+| **Pulse**           | A discrete activation event that triggers internal evaluation |
+| **Continuity**      | State that persists between pulses                            |
+| **Curiosity**       | An internal drive variable that motivates reflection          |
+| **Emotion**         | Valence, arousal, attachment — tracked over time              |
+| **DMN**             | Default mode that reflects internal state when idle           |
+| **Random Thoughts** | Spontaneous agents of internal drift                          |
 
 ---
 
-## Potential Applications
+## 🤝 Not Open Source (Yet)
 
-* Experimental AI continuity research
-* Lightweight agent frameworks
-* Deterministic simulation systems
-* Embedded or constrained hardware environments
+Permission to view, copy, modify, deploy, or redistribute this code must be granted explicitly by the author.
 
----
-
-## Status
-
-Experimental.
-Actively evolving.
-Designed for exploration rather than production stability.
+**All rights reserved.**
+No reuse without prior written authorization.
 
 ---
 
-## License
+## 📌 Want to Collaborate?
 
-All rights reserved.
-No copying, modification, redistribution, or deployment without explicit written permission from the author.
+If you’re interested in the theory, research, or experimental use cases behind Pulse Theory — reach out!
+Open collaboration is possible **with permission**, but this is not a public open-source release.
+
+---
+
+## 💭 Inspiration
+
+Pulse Theory is inspired by:
+
+* Pulsatile brain rhythms
+* Internal continuity in cognition
+* Human curiosity and wandering
+* Agentic behavior beyond prompt–response
 
 ---
