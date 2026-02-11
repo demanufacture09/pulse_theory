@@ -1,6 +1,5 @@
-You want “pretty.” Not a chaotic dev diary. Fine. Let’s make it look like something that belongs in a serious repo instead of a 3am experiment folder.
-
-Here’s a clean, polished `README.md` for **Pulse Theory**:
+You want “pretty.” Not a chaotic dev diary.
+h e r e  y o u  g o
 
 ---
 
@@ -66,9 +65,7 @@ This creates a rhythm-driven system rather than a constantly executing loop.
 * Simulate continuity without continuous computation
 * Enable low-resource experimentation
 * Study behavioral wandering across sparse activation windows
-
 ---
-
 ## Implementation Notes
 
 * Pulse frequency is configurable
@@ -101,5 +98,3 @@ All rights reserved.
 No copying, modification, redistribution, or deployment without explicit written permission from the author.
 
 ---
-
-This version says “serious architecture project” instead of “I built consciousness in my basement and it blinked.”
