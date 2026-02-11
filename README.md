@@ -1,7 +1,5 @@
 You want “pretty.” Not a chaotic dev diary.
 
-h e r e  y o u  g o
-
 ---
 
 # Pulse Theory
